@@ -66,6 +66,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -460,6 +461,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Saria 1_11: -7505158109424947990
+      Saria 1_2: 6381241781999800690
+      Saria 1_4: -6046513451993956947
+      Saria 1_1: -3530194121191287260
+      Saria 1_3: 3891494055142709603
+      Saria 1_10: 9010248647774556889
+      Saria 1_12: -3724648307904942339
+      Saria 1_13: -4035177788282744690
+      Saria 1_8: 7607017125167744602
+      Saria 1_6: -4433594458530968494
+      Saria 1_7: 4513441758548309603
+      Saria 1_5: 8769611537546640086
+      Saria 1_9: -7634966582348268854
+      Saria 1_0: -9035586445757153614
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

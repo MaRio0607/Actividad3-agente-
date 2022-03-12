@@ -51,7 +51,7 @@ public class Movement : MonoBehaviour
 //contador de pasos
         for(int i=0; pasos>i;i++){
              //puntos normales
-            if(DOWNIsTouchingWall()){
+         if(DOWNIsTouchingWall()){
                 print ("Toco abajo voy izquierda");
                 GoLeft();
             }
@@ -78,17 +78,17 @@ public class Movement : MonoBehaviour
             }
 
             else if(LDisTouchingWall()){
-                print ("Toco esquina voy arriba");
+                print ("Toco esquina voy izquierda");
                 GoLeft();
             }
 
             else if(RUisTouchingWall()){
-                print ("Toco esquina voy abajo");
+                print ("Toco esquina voy derecha");
                 GoRight();
             }
 
             else if(LUisTouchingWall()){
-                print ("Toco esquina voy derecha");
+                print ("Toco esquina voy izquierda");
                 GoLeft();
             }
 
